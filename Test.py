@@ -191,7 +191,7 @@ g = 0.5
 
 print("parameters")
 print("delta =", delta, ", g =", g)
-
+print("pnum =", pnum, ", hnum =", hnum)
 
 # Initialize pairing matrix elements and Fock matrix
 v_pppp, v_pphh, v_hhhh = init_pairing_v(g,pnum,hnum)
@@ -203,7 +203,7 @@ erg = ccd_energy(v_pphh,t2)
 
 # Exact MBPT2 for comparison, see last equation on page 365 
 exact_mbpt2 = -0.25*g**2*(1.0/(2.0+g) + 2.0/(4.0+g) + 1.0/(6.0+g))
-print("MBPT2 energy =", erg, ", compared to exact:", exact_mbpt2)
+#print("MBPT2 energy =", erg, ", compared to exact:", exact_mbpt2)
     
     
 # iterate CCD equations niter times

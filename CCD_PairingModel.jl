@@ -193,7 +193,7 @@ delta = 1.0
 g = 0.5
 
 print("parameters: ")
-print("delta =", delta, ", g =", g)
+print("pnum =", pnum, ", hnum =", hnum)
 print("
 ")
 
