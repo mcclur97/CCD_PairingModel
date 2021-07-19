@@ -192,11 +192,6 @@ hnum = 4 # number of hole states
 delta = 1.0
 g = 0.5
 
-print("parameters: ")
-print("pnum =", pnum, ", hnum =", hnum)
-print("
-")
-
 v_pppp, v_pphh, v_hhhh = init_pairing_v(g,pnum,hnum)
 f_pp, f_hh = init_pairing_fock(delta,g,pnum,hnum)
 

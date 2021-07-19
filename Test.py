@@ -189,9 +189,6 @@ delta = 1.0
 
 g = 0.5
 
-print("parameters")
-print("delta =", delta, ", g =", g)
-print("pnum =", pnum, ", hnum =", hnum)
 
 # Initialize pairing matrix elements and Fock matrix
 v_pppp, v_pphh, v_hhhh = init_pairing_v(g,pnum,hnum)
