@@ -1,0 +1,329 @@
+2
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+4
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+6
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+8
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+10
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+12
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+14
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+16
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+18
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+20
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+22
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+24
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+26
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+28
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+30
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+32
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+34
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+36
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+38
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+40
+┌ Warning: Assignment to `erg` in soft scope is ambiguous because a global variable by the same name exists: `erg` will be treated as a new local. Disambiguate by using `local erg` to suppress this warning or `global erg` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:211
+┌ Warning: Assignment to `t2` in soft scope is ambiguous because a global variable by the same name exists: `t2` will be treated as a new local. Disambiguate by using `local t2` to suppress this warning or `global t2` to assign to the existing global variable.
+└ @ /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:212
+ERROR: LoadError: UndefVarError: t2 not defined
+Stacktrace:
+ [1] macro expansion at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:210 [inlined]
+ [2] top-level scope at ./timing.jl:233 [inlined]
+ [3] top-level scope at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:0
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include(::Module, ::String) at ./Base.jl:368
+ [6] exec_options(::Base.JLOptions) at ./client.jl:296
+ [7] _start() at ./client.jl:506
+in expression starting at /mnt/ufs18/home-104/mcclur97/CCD_PairingModel/CCD_PairingModel.jl:209
+JobId=30525270 JobName=julia
+   UserId=mcclur97(1004513) GroupId=nscl(2002) MCS_label=N/A
+   Priority=41455 Nice=0 Account=general QOS=normal
+   JobState=RUNNING Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:01:34 TimeLimit=4-23:59:00 TimeMin=N/A
+   SubmitTime=2021-07-19T13:57:34 EligibleTime=2021-07-19T13:57:34
+   AccrueTime=2021-07-19T13:57:34
+   StartTime=2021-07-19T13:58:35 EndTime=2021-07-24T13:57:35 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-07-19T13:58:35
+   Partition=general-long AllocNode:Sid=dev-intel16.i:9217
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=csp-017
+   BatchHost=csp-017
+   NumNodes=1 NumCPUs=1 NumTasks=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,mem=20G,node=1,billing=3112
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryCPU=20G MinTmpDiskNode=0
+   Features=[intel14|intel16|intel18|amr|nvf] DelayBoot=00:00:00
+   OverSubscribe=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/mnt/ufs18/home-104/mcclur97/CCD_PairingModel/Jobjl.sh
+   WorkDir=/mnt/ufs18/home-104/mcclur97/CCD_PairingModel
+   Comment=stdout=/mnt/ufs18/home-104/mcclur97/CCD_PairingModel/slurm-30525268.out 
+   StdErr=/mnt/ufs18/home-104/mcclur97/CCD_PairingModel/slurm-30525270.out
+   StdIn=/dev/null
+   StdOut=/mnt/ufs18/home-104/mcclur97/CCD_PairingModel/slurm-30525270.out
+   Power=
+   NtasksPerTRES:0
+
