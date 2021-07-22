@@ -181,10 +181,10 @@ def ccd_energy(v_pphh,t2):
 
 ###############################
 ######## Main Program
-
+import sys
 # set parameters as for model
-pnum = 4 # number of particle states
-hnum = 4 # number of hole states
+pnum = int(sys.argv[1]) # number of particle states
+hnum = int(sys.argv[1]) # number of hole states
 delta = 1.0
 
 g = 0.5
